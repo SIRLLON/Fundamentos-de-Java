@@ -1,0 +1,6 @@
+Comprar midias;true;Sirllon Cruz;578139654-52;sirllon@gmail.com;
+S;Lucifer;24;456;true;50;Universal;
+F;Guerra Infinita;40;912;180;true;filme de ficcao cientifica e aventura de herois;
+S;Avangers;28;598;false;90;Marvel;
+S;Coisa mais linda;10;487;false;30;Globo;
+F;Cidade de Deus;15;534;100;false;filme baseado em fatos reais/drama;
